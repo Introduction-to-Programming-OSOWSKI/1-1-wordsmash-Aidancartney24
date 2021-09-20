@@ -1,6 +1,6 @@
 #WRITE YOUR CODE HERE
 
-def wordSmash(a, b):
-    print("cat" + "dog")
+def wordSmash(cat, dog):
+    return("cat" + "dog")
 
-wordSmash()
+print(wordSmash())
